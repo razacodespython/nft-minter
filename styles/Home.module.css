@@ -1,0 +1,27 @@
+.myheader{
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.hero{
+  display: flex;
+  /* justify-content: space-between; */
+  /* padding: 10px; */
+}
+
+.heroImage{
+  display: flex;
+  padding: 20px;
+}
+
+.heroText{
+  padding-right: 100px;
+  padding-left: 90px;
+  font-size: 60pt;
+  text-align: center;
+  color: white;
+
+}
+
+
